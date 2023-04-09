@@ -1,0 +1,20 @@
+{
+  "name": "why_not_linux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "whynotlinux.js",
+  "type": "module",
+  "bin": {
+    "whynotlinux": "./whynotlinux.js"
+  },
+  "scripts": {
+    "start": "node whynotlinux"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.5.2"
+  }
+}
