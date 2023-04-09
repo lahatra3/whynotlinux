@@ -3,10 +3,12 @@
 `whynotlinux` est une CLI avec une animation.
 
 
-[ ] Installation
+- [ ] Installation
 ```Bash
-    $ ~ git clone whynotlinux.git
+    $ ~ git clone https://github.com/lahatra3/whynotlinux.git
     $ ~ cd whynotlinux
     $ ~ npm i -g
 ```
-Maintenant, vous avez le `whynotlinux` CLI installer. Merci et happy coding !
+Maintenant, vous avez le `whynotlinux` CLI installer. 
+
+Happy coding 😊 !
